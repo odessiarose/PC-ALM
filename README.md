@@ -5,6 +5,6 @@ To check the code, you can have a look at the `algo.ipynb` notebook in the `./no
 
 ## Things to do
 - [x] Initial PyTorch implementation
-- [] Creating a small package
-- [] Creating pure NumPy implementation
-- [] Creating a pure JAX implementation
+- [ ] Creating a small package
+- [ ] Creating pure NumPy implementation
+- [ ] Creating a pure JAX implementation
